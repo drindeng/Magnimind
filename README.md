@@ -1,6 +1,9 @@
 # Magnimind
 
 # Data Experimentation Capstone
+
+# A/B testing
+
 ## Introduction
 
 The objective of this project is to examine the effects of user engagement after seeing Ad A or Ad B
