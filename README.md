@@ -1,0 +1,3 @@
+# Magnimind-Academy
+
+## Please look at branches....
